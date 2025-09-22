@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 21, 2025, 8:03:34 PM
+    Author     : jelan
+*/
+
+.whiteBlackStroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#redCircle {
+    -fx-fill: red;
+}
+
+#greenCircle {
+    -fx-fill: green;
+}
